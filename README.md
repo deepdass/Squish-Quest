@@ -1,1 +1,1 @@
-a short dummy project made to learn godot
+a short dummy project made to learn Godot
